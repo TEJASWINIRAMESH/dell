@@ -1,0 +1,33 @@
+linear.ipynb --> Linear regression
+
+logistic.ipynb --> Logistic regression
+
+knn.ipynb --> Knn
+
+naive.ipynb --> Naive Bayes
+
+svm.ipynb --> SVM
+
+decisiontree.ipynb --> Decisiontree
+
+km1.ipynb --> Kmeans elbow method
+
+km2.ipynb --> Kmeans hierarichal
+
+3.dl_model_lenet.py --> Build simple cnn model
+
+4.featmap.py --> Visualization of filters and feature maps in CNN
+
+5.ic.py --> CNN model for image classification
+
+6.pretrain.py --> Pretrained CNN model for feature extraction
+
+mmm.py --> Mid model 1 and 2(Annu)
+
+mid_model-q2(2_class).ipynb --> Mid model 2
+
+image_caption.ipynb --> Image Captioning
+
+image_synthesis.ipynb --> Image synthesis
+
+gitcaption.py --> Image Captioning GitHub code
