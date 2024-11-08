@@ -12,7 +12,7 @@ decisiontree.ipynb --> Decisiontree
 
 km1.ipynb --> Kmeans elbow method
 
-km2.ipynb --> Kmeans hierarichal
+hkm2.ipynb --> Kmeans hierarichal
 
 3.dl_model_lenet.py --> Build simple cnn model
 
