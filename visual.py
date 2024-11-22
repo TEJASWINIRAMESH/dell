@@ -7,7 +7,7 @@ import numpy as np
 
 # Set device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
+ 
 # Load the MNIST dataset
 transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((0.5,), (0.5,))])
 train_dataset = datasets.MNIST(root='./data', train=True, transform=transform, download=True)
