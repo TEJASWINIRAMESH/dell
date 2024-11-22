@@ -1,0 +1,7 @@
+2 conv pool *2 3conv pool *3 then 3 dense ------> VGG1
+
+conv subsamp *2 cov fc fc gaussian conect o/p ------>lenet
+
+conv depth wise cov*n globalpool flatten relu softax classificatio ------>mobileet
+
+conv max cov max con*3 mp fc fc softmax  -------> alexnet
